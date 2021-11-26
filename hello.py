@@ -1,1 +1,1 @@
-print("Hello Világ!!!")
+print("Farkas Zoltán Gáspár")
